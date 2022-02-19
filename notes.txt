@@ -1,0 +1,14 @@
+green :
+	hue min: 32
+	hue max: 55
+	sat min: 88
+	sat max: 251
+	value min: 112
+	value max: 255
+Blue:
+	hue min: 70
+	hue max: 179
+	sat min: 200
+	sat max: 255
+	value min: 60
+	value max: 255
